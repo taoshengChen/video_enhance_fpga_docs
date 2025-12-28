@@ -1,0 +1,30 @@
+[submodule "video_enhance_base_15p6inch_design_specification"]
+	path = video_enhance_base_15p6inch_design_specification
+	url = git@github.com:taoshengChen/video_enhance_base_15p6inch_design_specification.git
+[submodule "video_enhance_pro_15p6inch_design_specification"]
+	path = video_enhance_pro_15p6inch_design_specification
+	url = git@github.com:taoshengChen/video_enhance_pro_15p6inch_design_specification.git
+[submodule "video_enhance_pro_17p3inch_design_specification"]
+	path = video_enhance_pro_17p3inch_design_specification
+	url = git@github.com:taoshengChen/video_enhance_pro_17p3inch_design_specification.git
+[submodule "video_enhance_pro_17p3inch_user_guide"]
+	path = video_enhance_pro_17p3inch_user_guide
+	url = git@github.com:taoshengChen/video_enhance_pro_17p3inch_user_guide.git
+[submodule "video_enhance_pro_85inch_design_specification"]
+	path = video_enhance_pro_85inch_design_specification
+	url = git@github.com:taoshengChen/video_enhance_pro_85inch_design_specification.git
+[submodule "video_enhance_pro_disp_27inch_design_specification"]
+	path = video_enhance_pro_disp_27inch_design_specification
+	url = git@github.com:taoshengChen/video_enhance_pro_disp_27inch_design_specification.git
+[submodule "video_enhance_pro_tv_50inch_design_specification"]
+	path = video_enhance_pro_tv_50inch_design_specification
+	url = git@github.com:taoshengChen/video_enhance_pro_tv_50inch_design_specification.git
+[submodule "video_enhance_pro_tv_65inch_design_specification"]
+	path = video_enhance_pro_tv_65inch_design_specification
+	url = git@github.com:taoshengChen/video_enhance_pro_tv_65inch_design_specification.git
+[submodule "video_enhance_pro_tv_box_design_specification"]
+	path = video_enhance_pro_tv_box_design_specification
+	url = git@github.com:taoshengChen/video_enhance_pro_tv_box_design_specification.git
+[submodule "video_enhance_series_design_specification"]
+	path = video_enhance_series_design_specification
+	url = git@github.com:taoshengChen/video_enhance_series_design_specification.git
