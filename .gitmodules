@@ -28,3 +28,6 @@
 [submodule "video_enhance_series_design_specification"]
 	path = video_enhance_series_design_specification
 	url = git@github.com:taoshengChen/video_enhance_series_design_specification.git
+[submodule "taoshengChen-video_enhance_pro_14p96inch_design_specification"]
+	path = taoshengChen-video_enhance_pro_14p96inch_design_specification
+	url = git@github.com:taoshengChen/taoshengChen-video_enhance_pro_14p96inch_design_specification.git
