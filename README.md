@@ -26,6 +26,20 @@ flowchart TD
     end
 ```
 
+## 子模块（Submodule）管理
+
+### 1. 初始化与同步
+克隆本项目后，请运行以下命令以初始化并拉取所有子模块代码：
+```bash
+git submodule update --init --recursive
+```
+
+### 2. 更新子模块
+若需将所有子模块同步至其远程仓库的最新提交：
+```bash
+git submodule update --remote --recursive
+```
+
 **图 系列文档、设计规范、用户手册的关系图**
 
 > [!NOTE]

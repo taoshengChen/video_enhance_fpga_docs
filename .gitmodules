@@ -31,3 +31,12 @@
 [submodule "taoshengChen-video_enhance_pro_14p96inch_design_specification"]
 	path = taoshengChen-video_enhance_pro_14p96inch_design_specification
 	url = git@github.com:taoshengChen/taoshengChen-video_enhance_pro_14p96inch_design_specification.git
+[submodule "guide_filter_design_specification"]
+	path = guide_filter_design_specification
+	url = git@github.com:taoshengChen/guide_filter_design_specification.git
+[submodule "natural_saturation_design_specification"]
+	path = natural_saturation_design_specification
+	url = https://github.com/taoshengChen/natural_saturation_design_specification.git
+[submodule "video_enhance_pro_tv_ldpqe_design_specification"]
+	path = video_enhance_pro_tv_ldpqe_design_specification
+	url = https://github.com/RegisTeamOfGDUT/video_enhance_pro_tv_ldpqe_design_specification.git
