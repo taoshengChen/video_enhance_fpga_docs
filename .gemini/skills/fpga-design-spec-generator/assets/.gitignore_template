@@ -1,0 +1,33 @@
+# 仿真文件
+*.log
+*.vcd
+*.fsdb
+*.shm
+*.wlf
+
+# 编译生成文件
+*.o
+*.so
+*.exe
+*.obj
+
+# 工具生成文件
+*.jou
+*.log
+*.str
+*.zip
+*.bak
+
+# 临时文件
+*.tmp
+*.swp
+*.bkp
+*~
+
+# 目录
+work/
+simv/
+csrc/
+INCA_libs/
+uvm_*
+.DS_Store
